@@ -1,4 +1,4 @@
-#sqlmap error after updating
+# sqlmap error after updating
 
 After downloading **sqlmap** on a debian machine through `sudo apt install sqlmap`, and verifying that it was an outdated version (as per usual, when using the standard linux packages).
 
